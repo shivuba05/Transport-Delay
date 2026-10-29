@@ -1,0 +1,13 @@
+{
+    "test_statistic": -14.822687127930312,
+    "p_value": 1.952729070627555e-27,
+    "used_lags": 36,
+    "n_obs": 8584,
+    "critical_values": {
+        "1%": -3.431112028958132,
+        "5%": -2.8618767653525907,
+        "10%": -2.566949255269888
+    },
+    "is_stationary": true,
+    "conclusion": "Reject H0 at alpha=0.05: The series is STATISTICAL STATIONARY (p=1.9527e-27 < 0.05)."
+}
